@@ -1,0 +1,10 @@
+2023/01/12-18:09:37.254 68b0 Reusing MANIFEST C:\Users\rogel\Documents\FAstBot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/12-18:09:37.254 68b0 Recovering log #1366
+2023/01/12-18:09:37.390 68b0 Reusing old log C:\Users\rogel\Documents\FAstBot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/001366.log 
+2023/01/12-18:09:49.383 68b0 Level-0 table #1371: started
+2023/01/12-18:09:49.424 68b0 Level-0 table #1371: 1179076 bytes OK
+2023/01/12-18:09:49.424 68b0 Delete type=0 #1366
+2023/01/12-18:09:49.431 68b0 Compacting 1@1 + 1@2 files
+2023/01/12-18:09:49.496 68b0 Generated table #1372@1: 18234 keys, 1108336 bytes
+2023/01/12-18:09:49.496 68b0 Compacted 1@1 + 1@2 files => 1108336 bytes
+2023/01/12-18:09:49.497 68b0 compacted to: files[ 0 0 1 0 0 0 0 ]
